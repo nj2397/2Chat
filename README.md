@@ -1,5 +1,5 @@
 # 2Chat
-- About the project
+- Project Overview
     - Basic Websocket Implementation, employing two clients to communicate with text chat.
 
 
