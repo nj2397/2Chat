@@ -1,8 +1,45 @@
+
 # 2Chat
-- Project Overview
-    - Basic Websocket Implementation, employing two clients to communicate with text chat.
 
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/nj2397/2Chat)](https://github.com/nj2397/2Chat/commits/main)
+[![Language](https://img.shields.io/github/languages/top/nj2397/2Chat)](https://github.com/nj2397/2Chat/)
 
-![My Image](https://drive.google.com/uc?id=1q42H73Cme4gNx44XB_5Gl6ROc2gByx6B)
-![My Image](https://drive.google.com/uc?id=1aUT_4S3C9nCY8w-s2aistNIpKrlzmtaZ)
+## Table of Contents
 
+* [Project Overview](#project-overview)
+* [Key Features](#key-features)
+* [Screenshots](#screenshots)
+* [Tech Stack](#tech-stack)
+* [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+
+## Project Overview
+
+2Chat is a real-time chat application designed to facilitate seamless communication between users. It establishes connections through a dedicated server utilizing WebSockets, ensuring instant message delivery and a responsive user experience.
+
+## Key Features
+
+* **Real-time Messaging:** Send and receive messages instantly using WebSocket technology.
+* **User-to-User Communication:** Connect and chat directly with other users.
+* **[Add more features as you develop, e.g.,]**
+    * **Private Chat:** Engage in one-on-one conversations.
+    * **Group Chat:** Create and participate in multi-user chat rooms.
+    * **Typing Indicators:** See when other users are typing.
+    * **Message History:** View past conversations.
+    * **User Presence:** Know who is online.
+
+## Screenshots
+
+Include visual representations of your application to make it more appealing. **Important:** Google Drive links for images might not render directly in GitHub READMEs. You'll need to host these images on a platform that provides direct image URLs (e.g., Imgur, a dedicated image hosting service, or even within your repository if they are static assets).
+
+**Replace the Google Drive links with direct image URLs like this:**
+
+```markdown
+![Chat Interface](https://drive.google.com/uc?id=1q42H73Cme4gNx44XB_5Gl6ROc2gByx6B)
+![Chat Interface](https://drive.google.com/uc?id=1aUT_4S3C9nCY8w-s2aistNIpKrlzmtaZ)
