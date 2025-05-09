@@ -35,11 +35,5 @@
     * **User Presence:** Know who is online.
 
 ## Screenshots
-
-Include visual representations of your application to make it more appealing. **Important:** Google Drive links for images might not render directly in GitHub READMEs. You'll need to host these images on a platform that provides direct image URLs (e.g., Imgur, a dedicated image hosting service, or even within your repository if they are static assets).
-
-**Replace the Google Drive links with direct image URLs like this:**
-
-```markdown
 ![Chat Interface](https://drive.google.com/uc?id=1q42H73Cme4gNx44XB_5Gl6ROc2gByx6B)
 ![Chat Interface](https://drive.google.com/uc?id=1aUT_4S3C9nCY8w-s2aistNIpKrlzmtaZ)
