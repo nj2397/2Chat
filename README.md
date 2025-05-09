@@ -24,8 +24,9 @@
 ## Development
 * Currently the application is in development phase. For experiment purpose, two clients are being maintained for communication exchange.
 * The updates will keep on appearing over repo before a complete prototype is hosted.
-* Plan is to integrate with an engaging UI and maintain database for users.
-* Integration with AI APIs such as Gemini API / Claude API is on progress, making the communication seamless.
+* Plans:
+  * integrate with an engaging UI and maintain database for users
+  * integration with AI APIs such as Gemini API / Claude API, making the communication seamless
 
 ## Tech Stack
 * Frontend: HTML, CSS, JS (Will get upgraded to Next.js, Redux, Tailwind CSS)
